@@ -60,8 +60,8 @@
 				D84B5F70278B67CC006B5804 /* SceneDelegate.swift */,
 				D84B5F72278B67CC006B5804 /* ViewController.swift */,
 				D84B5F74278B67CC006B5804 /* Main.storyboard */,
-				D84B5F77278B67CE006B5804 /* Assets.xcassets */,
 				D84B5F79278B67CE006B5804 /* LaunchScreen.storyboard */,
+				D84B5F77278B67CE006B5804 /* Assets.xcassets */,
 				D84B5F7C278B67CE006B5804 /* Info.plist */,
 			);
 			path = "AxenovVA2,1a-TheSameViews";
