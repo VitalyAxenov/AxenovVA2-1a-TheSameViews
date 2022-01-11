@@ -13,7 +13,6 @@
 		D84B5F76278B67CC006B5804 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D84B5F74278B67CC006B5804 /* Main.storyboard */; };
 		D84B5F78278B67CE006B5804 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D84B5F77278B67CE006B5804 /* Assets.xcassets */; };
 		D84B5F7B278B67CE006B5804 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D84B5F79278B67CE006B5804 /* LaunchScreen.storyboard */; };
-		D84B5F83278E0B90006B5804 /* AxenovVA2,1a-TheSameViews in Resources */ = {isa = PBXBuildFile; fileRef = D84B5F82278E0B90006B5804 /* AxenovVA2,1a-TheSameViews */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		D84B5F77278B67CE006B5804 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D84B5F7A278B67CE006B5804 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D84B5F7C278B67CE006B5804 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D84B5F82278E0B90006B5804 /* AxenovVA2,1a-TheSameViews */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "AxenovVA2,1a-TheSameViews"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +56,6 @@
 		D84B5F6D278B67CC006B5804 /* AxenovVA2,1a-TheSameViews */ = {
 			isa = PBXGroup;
 			children = (
-				D84B5F82278E0B90006B5804 /* AxenovVA2,1a-TheSameViews */,
 				D84B5F6E278B67CC006B5804 /* AppDelegate.swift */,
 				D84B5F70278B67CC006B5804 /* SceneDelegate.swift */,
 				D84B5F72278B67CC006B5804 /* ViewController.swift */,
@@ -131,7 +128,6 @@
 				D84B5F7B278B67CE006B5804 /* LaunchScreen.storyboard in Resources */,
 				D84B5F78278B67CE006B5804 /* Assets.xcassets in Resources */,
 				D84B5F76278B67CC006B5804 /* Main.storyboard in Resources */,
-				D84B5F83278E0B90006B5804 /* AxenovVA2,1a-TheSameViews in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
